@@ -1,0 +1,10 @@
+Standard Food Mush;1;15;10
+Darklight Mush;16;30;10
+Toadstool;31;45;8
+Superfood Mush;46;55;8
+Blue Mush;56;65;8
+Antidote Shroom;66;75;8
+Nitroshroom;76;85;8
+Parashroom;86;90;8
+Devils Blight;91;95;8
+Mandragora;96;100;8

@@ -1,0 +1,2 @@
+resource1;1;50
+resource2;51;100

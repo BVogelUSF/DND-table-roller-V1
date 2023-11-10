@@ -1,0 +1,10 @@
+Maggots;1;20;4
+Rot Grubs;21;40;4
+Worm;41;50;4
+Firefly;51;60;4
+Cricket;61;70;4
+Spider;71;80;4
+Bughopper;81;85;4
+Bitterbug;86;90;4
+Snakebee Larva;91;95;4
+Giant Fire Beelte;96;100;4

@@ -1,0 +1,10 @@
+Chiton Grub;1;15;3;5;6;7
+Altaroth;16;30;3;5;6;7
+Hornetaur;31;40;1;2;3;4
+Bnahabra;41;50;1;2;3;4
+Giant Wasp;51;60;1;1;2;3
+Konshu;61;70;1;2;3;4
+Rust Monster;71;80;1;1;2;3
+Giant Centipede;81;90;1;2;3;4
+Piercer;91;95;1;2;3;4
+Giant Spider;96;100;1;1;2;2
